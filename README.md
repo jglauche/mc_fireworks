@@ -9,6 +9,7 @@ Shoutout to my generous donors and sponsors on github.
 List of named sponsors at the project date (ordered by sponsor date, asc):
 
 aisuzuki
+
 Kitteh - https://kitteh.pw
 
 
